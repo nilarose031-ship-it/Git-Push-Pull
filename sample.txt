@@ -2,3 +2,4 @@ This is my Git Push and Pull practical.
 This file was updated from GitHub.
 Git Pull operation practice
 Pull operation completed successfully.
+Git Push operation completed.
