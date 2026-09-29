@@ -1,1 +1,2 @@
 This is my Git Push and Pull practical.
+This file was updated from GitHub.
